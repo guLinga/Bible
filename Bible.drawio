@@ -1,9 +1,96 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="DM4he_RCLRV9WtfL8puU">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-1" target="__xsrpT0oX-hWeF_dwTw-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="55" />
+              <mxPoint x="800" y="700" />
+              <mxPoint x="60" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-1" value="神创造天地万物" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="40" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-2" target="__xsrpT0oX-hWeF_dwTw-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="695" />
+              <mxPoint x="800" y="985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-2" value="伊甸园" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-6" value="&lt;div&gt;【创1:3】　神说：“要有光”，就有了光。&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【创1:4】　神看光是好的，就把光暗分开了。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【创1:5】　神称光为昼，称暗为夜。有晚上，有早晨，这是头一日。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-7" value="&lt;div&gt;【创1:6】　神说：“诸水之间要有空气，将水分为上下。”&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【创1:7】　神就造出空气，将空气以下的水、空气以上的水分开了。事就这样成了。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【创1:8】　神称空气为天。有晚上，有早晨，是第二日。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-8" value="&lt;div&gt;【创1:9】　神说：“天下的水要聚在一处，使旱地露出来。”事就这样成了。&lt;/div&gt;&lt;div&gt;【创1:10】　神称旱地为地，称水的聚处为海。　神看着是好的。&lt;/div&gt;&lt;div&gt;【创1:11】　神说：“地要发生青草和结种子的菜蔬，并结果子的树木，各从其类，果子都包着核。”事就这样成了。&lt;/div&gt;&lt;div&gt;【创1:12】于是地发生了青草和结种子的菜蔬，各从其类；并结果子的树木，各从其类，果子都包着核。　神看着是好的。&lt;/div&gt;&lt;div&gt;【创1:13】有晚上，有早晨，是第三日。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="670" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-13" value="&lt;div&gt;【创1:14】　神说：“天上要有光体，可以分昼夜，作记号，定节令、日子、年岁，&lt;/div&gt;&lt;div&gt;【创1:15】并要发光在天空，普照在地上。”事就这样成了。&lt;/div&gt;&lt;div&gt;【创1:16】于是　神造了两个大光，大的管昼，小的管夜，又造众星，&lt;/div&gt;&lt;div&gt;【创1:17】就把这些光摆列在天空，普照在地上，&lt;/div&gt;&lt;div&gt;【创1:18】管理昼夜，分别明暗。　神看着是好的。&lt;/div&gt;&lt;div style=&quot;&quot;&gt;【创1:19】有晚上，有早晨，是第四日。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="460" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-14" value="&lt;div&gt;【创1:20】　神说：“水要多多滋生有生命的物，要有雀鸟飞在地面以上，天空之中。”&lt;/div&gt;&lt;div&gt;【创1:21】　神就造出大鱼和水中所滋生各样有生命的动物，各从其类；又造出各样飞鸟，各从其类。　神看着是好的。&lt;/div&gt;&lt;div&gt;【创1:22】　神就赐福给这一切，说：“滋生繁多，充满海中的水，雀鸟也要多生在地上。”&lt;/div&gt;&lt;div&gt;【创1:23】有晚上，有早晨，是第五日。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="380" width="660" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-15" value="&lt;div&gt;【创1:24】　神说：“地要生出活物来，各从其类；牲畜、昆虫、野兽，各从其类。”事就这样成了。&lt;/div&gt;&lt;div&gt;【创1:25】于是　神造出野兽，各从其类；牲畜，各从其类；地上一切昆虫，各从其类。　神看着是好的。&lt;/div&gt;&lt;div&gt;【创1:26】　神说：“我们要照着&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;我们的形像&lt;/font&gt;&lt;/b&gt;，按着我们的样式造人，使他们管理海里的鱼、空中的鸟、地上的牲畜和全地，并地上所爬的一切昆虫。”&lt;/div&gt;&lt;div&gt;【创1:27】　神就照着自己的形像造人，乃是照着他的形像造男造女。&lt;/div&gt;&lt;div&gt;【创1:28】　神就赐福给他们，又对他们说：“要生养众多，遍满地面，治理这地；也要管理海里的鱼、空中的鸟，和地上各样行动的活物。”&lt;/div&gt;&lt;div&gt;【创1:29】　神说：“看哪，我将遍地上一切结种子的菜蔬，和一切树上所结有核的果子，全赐给你们作食物。&lt;/div&gt;&lt;div&gt;【创1:30】至于地上的走兽和空中的飞鸟，并各样爬在地上有生命的物，我将青草赐给它们作食物。”事就这样成了。&lt;/div&gt;&lt;div&gt;【创1:31】　神看着一切所造的都甚好。有晚上，有早晨，是第六日。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="455" width="810" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-23" value="因为神在创造的第三日两次宣告【神看着是好的】，所以犹太人传统把第三日当作适合举行婚礼的双福日" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="220" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-25" value="这里的光并不是来自于日月星辰，而是来自于神，【约壹1:5】　神就是光，在他毫无黑暗。这是我们从主所听见，又报给你们的信息。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="85" width="740" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-26" value="惟有第二日，神没说【好】，有人认为是因为天空中有属灵气的恶魔居住的缘故&lt;div&gt;【弗6:12】因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战（两“争战”原文都作“摔跤”）。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="140" width="820" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-32" value="&lt;div&gt;【创2:1】天地万物都造齐了。&lt;/div&gt;&lt;div&gt;【创2:2】到第七日，　神造物的工已经完毕，就在第七日歇了他一切的工，安息了。&lt;/div&gt;&lt;div&gt;【创2:3】　神赐福给第七日，定为圣日，因为在这日　神歇了他一切创造的工，就安息了。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-40" value="&lt;div&gt;世人需要「安息」，是因为疲倦。神「并不疲乏，也不困倦」（赛四十28）&lt;/div&gt;&lt;div&gt;祂的安息是因为完成了创造的旨意和工作，因此心满意足、「安息舒畅」（出三十一17）&lt;/div&gt;&lt;div&gt;神在第七日「歇了」的是创造之工，祂从此不再从无到有创造新的东西，直到第八日让祂的儿子基督从死里复活（可十六9），并带出了基督里「新造的人」（林后五17）和「新天新地」（赛六十五17；六十六22；启二十一1）。但神从未停止护理之工，祂「做事直到如今」（约五17）。&lt;/div&gt;&lt;div&gt;「七」在圣经中表示完全。在创造的过程中，神7次宣告「好」（一4、10、12、18、21、25、31），7次宣告「事就这样成了」（一7、9、11、15、24、30，一20七十士译本），在「第七日」安息，并「赐福给第七日」（3节）。&lt;/div&gt;&lt;div&gt;在希伯来原文中，神在前六日都是用7个词宣告结束当日的创造之工（一5、8、13、19、23、31），而「第七日」则是先用7个词宣告「到第七日，神造物的工已经完毕」，又用7个词宣告「就在第七日歇了祂一切的工，安息了」，庄严而完全。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="595" width="1540" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-41" value="&lt;span style=&quot;&quot;&gt;【我们的形象】&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;div&gt;【我们】&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;可能是三位一体的神彼此商量，也可能是表示尊贵。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;神造人的时候，没有只用一句简单的命令【要有光……】（创一3节），&lt;br&gt;而是先彼此商量【我们要……造人】，这表明人是何等的尊贵，谁也没有资格轻看、践踏、【咒诅那照着神形象被造的人】（雅三9）。&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;【形象】&lt;br&gt;指神的性情，包括真理、仁义、圣洁【有真理的仁义和圣洁】（弗四24）。&lt;br&gt;基督就是【那不能看见之神的像】（西一15），&lt;/div&gt;&lt;div&gt;是【神荣耀所发的光辉，是神本体的真象】（来一3），&lt;/div&gt;&lt;div&gt;只有神的儿子基督才是【神的形象】（腓二6），&lt;/div&gt;&lt;div&gt;而人是照着这形象造的，为要成为神的儿子（来二10）。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;【神造人的目的是】&lt;/div&gt;&lt;div&gt;1、要人成为承受祂基业的儿子（弗一9-12，来二10）；&lt;/div&gt;&lt;div&gt;2、要人成为管理祂创造的仆人（本节，来二5-7）；&lt;/div&gt;&lt;div&gt;3、因着神的形象而彰显出神的荣耀（赛四十三7）。因此，神是人类的「父亲」和「主人」（玛一6）。&lt;/div&gt;&lt;div&gt;人「管理」的对象主要是有生命的生物。「管理」不是剥削、掠夺，人不可滥用、破坏神所造的大自然，应该尊重神的一切创造物，善用资源。&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="270" width="780" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-44" value="人违背命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="970" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
