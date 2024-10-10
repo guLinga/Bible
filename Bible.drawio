@@ -74,8 +74,8 @@
         <mxCell id="__xsrpT0oX-hWeF_dwTw-41" value="&lt;span style=&quot;&quot;&gt;【我们的形象】&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;div&gt;【我们】&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;可能是三位一体的神彼此商量，也可能是表示尊贵。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;神造人的时候，没有只用一句简单的命令【要有光……】（创一3节），&lt;br&gt;而是先彼此商量【我们要……造人】，这表明人是何等的尊贵，谁也没有资格轻看、践踏、【咒诅那照着神形象被造的人】（雅三9）。&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;【形象】&lt;br&gt;指神的性情，包括真理、仁义、圣洁【有真理的仁义和圣洁】（弗四24）。&lt;br&gt;基督就是【那不能看见之神的像】（西一15），&lt;/div&gt;&lt;div&gt;是【神荣耀所发的光辉，是神本体的真象】（来一3），&lt;/div&gt;&lt;div&gt;只有神的儿子基督才是【神的形象】（腓二6），&lt;/div&gt;&lt;div&gt;而人是照着这形象造的，为要成为神的儿子（来二10）。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;【神造人的目的是】&lt;/div&gt;&lt;div&gt;1、要人成为承受祂基业的儿子（弗一9-12，来二10）；&lt;/div&gt;&lt;div&gt;2、要人成为管理祂创造的仆人（本节，来二5-7）；&lt;/div&gt;&lt;div&gt;3、因着神的形象而彰显出神的荣耀（赛四十三7）。因此，神是人类的「父亲」和「主人」（玛一6）。&lt;/div&gt;&lt;div&gt;人「管理」的对象主要是有生命的生物。「管理」不是剥削、掠夺，人不可滥用、破坏神所造的大自然，应该尊重神的一切创造物，善用资源。&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1340" y="420" width="780" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="__xsrpT0oX-hWeF_dwTw-44" value="人违背命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="15" y="1215" width="80" height="30" as="geometry" />
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-44" value="人违背神的命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry y="1215" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kcKfXnQ_HAUE7W35JB_x-1" value="神创造光，把光和暗分开" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="80" width="160" height="30" as="geometry" />
@@ -169,6 +169,42 @@
         </mxCell>
         <mxCell id="kcKfXnQ_HAUE7W35JB_x-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-38" target="kcKfXnQ_HAUE7W35JB_x-39">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-47" value="神的惩罚" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1790" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-48" value="人被赶出伊甸园" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1910" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.014;entryY=0.661;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-44" target="kcKfXnQ_HAUE7W35JB_x-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="55" y="1260" />
+              <mxPoint x="900" y="1260" />
+              <mxPoint x="900" y="1810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-47" target="kcKfXnQ_HAUE7W35JB_x-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="1830" />
+              <mxPoint x="900" y="1830" />
+              <mxPoint x="900" y="1928" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-52" value="人吃分别善恶树上的果子&lt;div&gt;违背神的命令&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1300" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-53" value="&lt;div&gt;【创3:1】耶和华　神所造的，惟有蛇比田野一切的活物更狡猾。蛇对女人说：“　神岂是真说不许你们吃园中所有树上的果子吗？”&lt;/div&gt;&lt;div&gt;【创3:2】女人对蛇说：“园中树上的果子，我们可以吃；&lt;/div&gt;&lt;div&gt;【创3:3】惟有园当中那棵树上的果子，　神曾说：‘你们不可吃，也不可摸，免得你们死。’”&lt;/div&gt;&lt;div&gt;【创3:4】蛇对女人说：“你们不一定死，&lt;/div&gt;&lt;div&gt;【创3:5】因为　神知道，你们吃的日子眼睛就明亮了，你们便如　神能知道善恶。”&lt;/div&gt;&lt;div&gt;【创3:6】于是，女人见那棵树的果子好作食物，也悦人的眼目，且是可喜爱的，能使人有智慧，就摘下果子来吃了；又给她丈夫，她丈夫也吃了。&lt;/div&gt;&lt;div&gt;【创3:7】他们二人的眼睛就明亮了，才知道自己是赤身露体，便拿无花果树的叶子，为自己编作裙子。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1280" width="800" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-54" value="男女为罪推卸责任" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-55" value="&lt;div&gt;【创3:8】天起了凉风，耶和华　神在园中行走。那人和他妻子听见　神的声音，就藏在园里的树木中，躲避耶和华　神的面。&lt;/div&gt;&lt;div&gt;【创3:9】耶和华　神呼唤那人，对他说：“你在哪里？”&lt;/div&gt;&lt;div&gt;【创3:10】他说：“我在园中听见你的声音，我就害怕，因为我赤身露体，我便藏了。”&lt;/div&gt;&lt;div&gt;【创3:11】耶和华说：“谁告诉你赤身露体呢？莫非你吃了我吩咐你不可吃的那树上的果子吗？”&lt;/div&gt;&lt;div&gt;【创3:12】那人说：“你所赐给我、与我同居的女人，她把那树上的果子给我，我就吃了。”&lt;/div&gt;&lt;div&gt;【创3:13】耶和华　神对女人说：“你作的是什么事呢？”女人说：“那蛇引诱我，我就吃了。”&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1430" width="690" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
