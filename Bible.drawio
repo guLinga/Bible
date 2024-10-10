@@ -20,13 +20,14 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="45" y="860" />
-              <mxPoint x="800" y="860" />
-              <mxPoint x="800" y="985" />
+              <mxPoint x="900" y="860" />
+              <mxPoint x="900" y="1240" />
+              <mxPoint x="55" y="1240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="__xsrpT0oX-hWeF_dwTw-2" value="伊甸园" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="5" y="820" width="60" height="30" as="geometry" />
+        <mxCell id="__xsrpT0oX-hWeF_dwTw-2" value="人在伊甸园的生活" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="15" y="820" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kcKfXnQ_HAUE7W35JB_x-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-6" target="__xsrpT0oX-hWeF_dwTw-25">
           <mxGeometry relative="1" as="geometry" />
@@ -74,7 +75,7 @@
           <mxGeometry x="1340" y="420" width="780" height="290" as="geometry" />
         </mxCell>
         <mxCell id="__xsrpT0oX-hWeF_dwTw-44" value="人违背命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="5" y="970" width="80" height="30" as="geometry" />
+          <mxGeometry x="15" y="1215" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kcKfXnQ_HAUE7W35JB_x-1" value="神创造光，把光和暗分开" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="80" width="160" height="30" as="geometry" />
@@ -97,8 +98,8 @@
         <mxCell id="kcKfXnQ_HAUE7W35JB_x-9" value="神造出大鱼和水中所滋生各样有生命的动物&lt;div&gt;又造各样飞鸟&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="85" y="410" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-10" value="神造出野兽、牲畜、昆虫&lt;div&gt;神按照他的形象用泥土造人，并吹气在他里面&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="85" y="560" width="260" height="40" as="geometry" />
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-10" value="神造出野兽、牲畜、昆虫&lt;div&gt;神按照他的形象用泥土造人，并吹气在他里面&lt;/div&gt;&lt;div&gt;神创造第一个人类亚当&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="550" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kcKfXnQ_HAUE7W35JB_x-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.538;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-7" target="__xsrpT0oX-hWeF_dwTw-26">
           <mxGeometry relative="1" as="geometry" />
@@ -122,6 +123,51 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kcKfXnQ_HAUE7W35JB_x-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-26" target="__xsrpT0oX-hWeF_dwTw-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-31" value="神将亚当安置在伊甸园" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="898" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-32" value="【创2:8】耶和华　神在东方的伊甸立了一个园子，把所造的人安置在那里。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="898" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-33" value="神设立伊甸园的目的是为着「安置」人，祂不只是创造人，也负责妥善地「安置」人。&lt;div&gt;今天每个重生信徒所面临的环境，也都是神按着祂的美意所安排的（罗八28）。&lt;/div&gt;&lt;div&gt;伊甸园是快乐的地方，人的受苦并不是神的本意，相反地，神要人「靠主常常喜乐」（腓四4）。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="883" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-34" value="神与亚当立工作之约" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1010" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-35" value="【创2:15】耶和华　神将那人安置在伊甸园，使他修理看守。&lt;div&gt;&lt;div&gt;【创2:16】耶和华　神吩咐他说：“园中各样树上的果子，你可以随意吃，&lt;/div&gt;&lt;div&gt;【创2:17】只是分别善恶树上的果子，你不可吃，因为你吃的日子必定死。”&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="995" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-36" value="&lt;div&gt;神在伊甸园供应人、满足人（9节），但并没有让人好逸恶劳。神是创造的神，也是「做事直到如今」（约五17）的神，人既有神的形象，就不会甘心于无所事事。&lt;/div&gt;&lt;div&gt;「修理」原文可译成工作、服事、耕种，「看守」原文意思是照顾、守护。「修理、看守」是神给人的第一份工作，这工作不是为了糊口，而是运用神所赐给的智慧、能力和意志，执行神所托付的管理权柄。将来神的仆人在新耶路撒冷也要与基督一同「作王，直到永永远远」（启二十二5），管理神的创造。&lt;/div&gt;&lt;div&gt;15-17节是神与亚当所立的「工作之约」，神作为伊甸园的主人，把「修理、看守」的工作交给亚当自由负责，报酬是「园中各样树上的果子」（16节），条件是不可吃「分别善恶树上的果子」（17节），「吃的日子必定死」（17节）。&lt;/div&gt;&lt;div&gt;&lt;div&gt;圣经并没有说人不吃「分别善恶树」的果子就不能分辨善恶，也没有说「分别善恶树」的果子能给人「分别善恶」的能力，更没有说神不想叫人学会「分别善恶」。实际上，「吃」的行为本身会「分别善恶」，「不吃」的后果就是「善」，「吃」的后果就是「恶」。因为：&lt;/div&gt;&lt;div&gt;「不可吃」是神的命令，「不吃」代表顺服神，「吃」代表悖逆神。&lt;/div&gt;&lt;div&gt;「不可吃」的命令并非出于神的自私，因为所有其它树上的果子都可以随意吃（16节），甚至包括「生命树」（9节）。如果人偏偏要吃那「不可吃」的果子，表明贪心、不知足和不感恩。&lt;/div&gt;&lt;div&gt;「不可吃」的命令并没有带着解释，表明神要求人在没有明确解释的情况下，也能无条件地顺服神。&lt;/div&gt;&lt;div&gt;「不可吃」的命令并没有靠天使把守来执行（三24），表明这是神给人自由选择的机会。没有自由、没有选择的顺服，并不是甘心乐意的真正顺服。&lt;/div&gt;&lt;div&gt;「死」包括人灵性的死，也就是灵失去功用，与神隔绝；也包括人离开生命的源头之后，肉身逐渐走向死亡（五5；来九27）；最后包括将来第二次的死（启二十一8），「就是永远沉沦，离开主的面和祂权能的荣光」（帖后一9）。叫人「死」的并不是那果子本身，而是人背离神、离开生命的源头。&lt;/div&gt;&lt;div&gt;「不可吃」的命令和「必定死」的警告，是从反面引导人去做正确的选择。「死」是人不想要的，「生命」是人所想要的，因此人就应该知道当拣选「生命树」（9节）。但神从一起初就不强迫人去作拣选，祂只是告诉人正确的拣选。人若愿意体贴神的心意，自动自觉地拣选生命，才是神所要得着的「儿子」（来二10）。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="945" width="1720" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-38" value="神设立婚姻" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-39" target="kcKfXnQ_HAUE7W35JB_x-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-39" value="【创2:18】耶和华　神说：“那人独居不好，我要为他造一个配偶帮助他。”&lt;div&gt;&lt;div&gt;【创2:21】耶和华　神使他沉睡，他就睡了；于是取下他的一条肋骨，又把肉合起来。&lt;/div&gt;&lt;div&gt;【创2:22】耶和华　神就用那人身上所取的肋骨造成一个女人，领她到那人跟前。&lt;/div&gt;&lt;div&gt;【创2:23】那人说：“这是我骨中的骨，肉中的肉，可以称她为女人，因为她是从男人身上取出来的。”&lt;/div&gt;&lt;div&gt;【创2:24】因此，人要离开父母与妻子连合，二人成为一体。&lt;/div&gt;&lt;div&gt;【创2:25】当时夫妻二人赤身露体并不羞耻。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1115" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-40" value="&lt;div&gt;神要「造一个配偶来帮助他」，是因为一个人并不能成就神的旨意，成为神要得着的儿子。一个人闭门修炼出来的「柔和、谦卑、爱心」，是经不住婚姻试炼的，必须有「一个配偶帮助他」，才能真正「铁磨铁，磨出刃来」（箴二十七17），生命长成神儿子的身量。&lt;/div&gt;&lt;div&gt;人只有在磕磕碰碰、不离不弃的婚姻生活中，才能真正学会舍己的爱、学会背起十架跟随主。这十架不能想背就背，想扔就扔，因此婚姻是盟约而不是合约，神设立的婚姻是一生一世。而十架如果太多，我们背不动，因此「一个配偶」就够了，神设立的婚姻是一夫一妻。&lt;/div&gt;&lt;div&gt;离开了神的旨意，婚姻的目的只是为了满足人在经济、情感、生育、陪伴方面的需要，一旦人的经济独立、感情变化、不要孩子、或者精神足够强大的时候，离婚就成了家常便饭。&lt;/div&gt;&lt;div&gt;「造一个配偶帮助他」比较准确的译法是「造一个帮助者做他的配偶」。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1130" width="1450" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-31" target="kcKfXnQ_HAUE7W35JB_x-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-32" target="kcKfXnQ_HAUE7W35JB_x-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.486;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-34" target="kcKfXnQ_HAUE7W35JB_x-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-35" target="kcKfXnQ_HAUE7W35JB_x-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-38" target="kcKfXnQ_HAUE7W35JB_x-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
