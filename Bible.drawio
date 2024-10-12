@@ -1,35 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="DM4he_RCLRV9WtfL8puU">
-    <mxGraphModel dx="1226" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="__xsrpT0oX-hWeF_dwTw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="__xsrpT0oX-hWeF_dwTw-1" target="__xsrpT0oX-hWeF_dwTw-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1310" y="55" />
-              <mxPoint x="1310" y="840" />
-              <mxPoint x="45" y="840" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="__xsrpT0oX-hWeF_dwTw-1" value="神创造天地万物" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="15" y="40" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="__xsrpT0oX-hWeF_dwTw-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="__xsrpT0oX-hWeF_dwTw-2" target="__xsrpT0oX-hWeF_dwTw-44" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="45" y="860" />
-              <mxPoint x="900" y="860" />
-              <mxPoint x="900" y="1240" />
-              <mxPoint x="55" y="1240" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="__xsrpT0oX-hWeF_dwTw-2" value="人在伊甸园的生活" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="15" y="820" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-6" target="__xsrpT0oX-hWeF_dwTw-25">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="__xsrpT0oX-hWeF_dwTw-6" target="__xsrpT0oX-hWeF_dwTw-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="__xsrpT0oX-hWeF_dwTw-6" value="&lt;div&gt;【创1:3】　神说：“要有光”，就有了光。&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【创1:4】　神看光是好的，就把光暗分开了。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【创1:5】　神称光为昼，称暗为夜。有晚上，有早晨，这是头一日。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -38,7 +19,7 @@
         <mxCell id="__xsrpT0oX-hWeF_dwTw-7" value="&lt;div&gt;【创1:6】　神说：“诸水之间要有空气，将水分为上下。”&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【创1:7】　神就造出空气，将空气以下的水、空气以上的水分开了。事就这样成了。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【创1:8】　神称空气为天。有晚上，有早晨，是第二日。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="130" width="470" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-8" target="__xsrpT0oX-hWeF_dwTw-23">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="__xsrpT0oX-hWeF_dwTw-8" target="__xsrpT0oX-hWeF_dwTw-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="__xsrpT0oX-hWeF_dwTw-8" value="&lt;div&gt;【创1:9】　神说：“天下的水要聚在一处，使旱地露出来。”事就这样成了。&lt;/div&gt;&lt;div&gt;【创1:10】　神称旱地为地，称水的聚处为海。　神看着是好的。&lt;/div&gt;&lt;div&gt;【创1:11】　神说：“地要发生青草和结种子的菜蔬，并结果子的树木，各从其类，果子都包着核。”事就这样成了。&lt;/div&gt;&lt;div&gt;【创1:12】于是地发生了青草和结种子的菜蔬，各从其类；并结果子的树木，各从其类，果子都包着核。　神看着是好的。&lt;/div&gt;&lt;div&gt;【创1:13】有晚上，有早晨，是第三日。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -50,7 +31,7 @@
         <mxCell id="__xsrpT0oX-hWeF_dwTw-14" value="&lt;div&gt;【创1:20】　神说：“水要多多滋生有生命的物，要有雀鸟飞在地面以上，天空之中。”&lt;/div&gt;&lt;div&gt;【创1:21】　神就造出大鱼和水中所滋生各样有生命的动物，各从其类；又造出各样飞鸟，各从其类。　神看着是好的。&lt;/div&gt;&lt;div&gt;【创1:22】　神就赐福给这一切，说：“滋生繁多，充满海中的水，雀鸟也要多生在地上。”&lt;/div&gt;&lt;div&gt;【创1:23】有晚上，有早晨，是第五日。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="385" width="660" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-15" target="__xsrpT0oX-hWeF_dwTw-41">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="__xsrpT0oX-hWeF_dwTw-15" target="__xsrpT0oX-hWeF_dwTw-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="__xsrpT0oX-hWeF_dwTw-15" value="&lt;div&gt;【创1:24】　神说：“地要生出活物来，各从其类；牲畜、昆虫、野兽，各从其类。”事就这样成了。&lt;/div&gt;&lt;div&gt;【创1:25】于是　神造出野兽，各从其类；牲畜，各从其类；地上一切昆虫，各从其类。　神看着是好的。&lt;/div&gt;&lt;div&gt;【创1:26】　神说：“我们要照着&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;我们的形像&lt;/font&gt;&lt;/b&gt;，按着我们的样式造人，使他们管理海里的鱼、空中的鸟、地上的牲畜和全地，并地上所爬的一切昆虫。”&lt;/div&gt;&lt;div&gt;【创1:27】　神就照着自己的形像造人，乃是照着他的形像造男造女。&lt;/div&gt;&lt;div&gt;【创1:28】　神就赐福给他们，又对他们说：“要生养众多，遍满地面，治理这地；也要管理海里的鱼、空中的鸟，和地上各样行动的活物。”&lt;/div&gt;&lt;div&gt;【创1:29】　神说：“看哪，我将遍地上一切结种子的菜蔬，和一切树上所结有核的果子，全赐给你们作食物。&lt;/div&gt;&lt;div&gt;【创1:30】至于地上的走兽和空中的飞鸟，并各样爬在地上有生命的物，我将青草赐给它们作食物。”事就这样成了。&lt;/div&gt;&lt;div&gt;【创1:31】　神看着一切所造的都甚好。有晚上，有早晨，是第六日。&lt;/div&gt;&lt;div&gt;&lt;div&gt;【创2:4】创造天地的来历，在耶和华　神造天地的日子，乃是这样：&lt;/div&gt;&lt;div&gt;【创2:5】野地还没有草木，田间的菜蔬还没有长起来，因为耶和华　神还没有降雨在地上，也没有人耕地，&lt;/div&gt;&lt;div&gt;【创2:6】但有雾气从地上腾，滋润遍地。&lt;/div&gt;&lt;div&gt;【创2:7】耶和华　神用地上的尘土造人，将生气吹在他鼻孔里，他就成了有灵的活人，名叫亚当。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -77,134 +58,158 @@
         <mxCell id="__xsrpT0oX-hWeF_dwTw-44" value="人违背神的命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry y="1215" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-1" value="神创造光，把光和暗分开" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-1" value="神创造光，把光和暗分开" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="70" y="80" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-1" target="__xsrpT0oX-hWeF_dwTw-6">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kcKfXnQ_HAUE7W35JB_x-1" target="__xsrpT0oX-hWeF_dwTw-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-4" value="神把水分为上下，造出空气" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-4" value="神把水分为上下，造出空气" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="75" y="138" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.381;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-4" target="__xsrpT0oX-hWeF_dwTw-7">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.381;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kcKfXnQ_HAUE7W35JB_x-4" target="__xsrpT0oX-hWeF_dwTw-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-7" value="神将天下的水聚集，使旱地露出来，称旱地为地，称水聚集处为海&lt;div&gt;地要发生青草和结种子的菜蔬，并结果子的树木&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-7" value="神将天下的水聚集，使旱地露出来，称旱地为地，称水聚集处为海&lt;div&gt;地要发生青草和结种子的菜蔬，并结果子的树木&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="85" y="220" width="370" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-8" value="神造了两个大光，有造众星" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-8" value="神造了两个大光，有造众星" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="85" y="320" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-9" value="神造出大鱼和水中所滋生各样有生命的动物&lt;div&gt;又造各样飞鸟&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-9" value="神造出大鱼和水中所滋生各样有生命的动物&lt;div&gt;又造各样飞鸟&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="85" y="410" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-10" value="神造出野兽、牲畜、昆虫&lt;div&gt;神按照他的形象用泥土造人，并吹气在他里面&lt;/div&gt;&lt;div&gt;神创造第一个人类亚当&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-10" value="神造出野兽、牲畜、昆虫&lt;div&gt;神按照他的形象用泥土造人，并吹气在他里面&lt;/div&gt;&lt;div&gt;神创造第一个人类亚当&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="85" y="550" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.538;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-7" target="__xsrpT0oX-hWeF_dwTw-26">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.538;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="__xsrpT0oX-hWeF_dwTw-7" target="__xsrpT0oX-hWeF_dwTw-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-32" target="__xsrpT0oX-hWeF_dwTw-40">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="__xsrpT0oX-hWeF_dwTw-32" target="__xsrpT0oX-hWeF_dwTw-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-7" target="__xsrpT0oX-hWeF_dwTw-8">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kcKfXnQ_HAUE7W35JB_x-7" target="__xsrpT0oX-hWeF_dwTw-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-8" target="__xsrpT0oX-hWeF_dwTw-13">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kcKfXnQ_HAUE7W35JB_x-8" target="__xsrpT0oX-hWeF_dwTw-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-9" target="__xsrpT0oX-hWeF_dwTw-14">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kcKfXnQ_HAUE7W35JB_x-9" target="__xsrpT0oX-hWeF_dwTw-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-26" value="神在第七日安歇了" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-26" value="神在第七日安歇了" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="75" y="750" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.584;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-10" target="__xsrpT0oX-hWeF_dwTw-15">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.584;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kcKfXnQ_HAUE7W35JB_x-10" target="__xsrpT0oX-hWeF_dwTw-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-26" target="__xsrpT0oX-hWeF_dwTw-32">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kcKfXnQ_HAUE7W35JB_x-26" target="__xsrpT0oX-hWeF_dwTw-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-31" value="神将亚当安置在伊甸园" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-31" value="神将亚当安置在伊甸园" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="898" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-32" value="【创2:8】耶和华　神在东方的伊甸立了一个园子，把所造的人安置在那里。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-32" value="【创2:8】耶和华　神在东方的伊甸立了一个园子，把所造的人安置在那里。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="335" y="898" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-33" value="神设立伊甸园的目的是为着「安置」人，祂不只是创造人，也负责妥善地「安置」人。&lt;div&gt;今天每个重生信徒所面临的环境，也都是神按着祂的美意所安排的（罗八28）。&lt;/div&gt;&lt;div&gt;伊甸园是快乐的地方，人的受苦并不是神的本意，相反地，神要人「靠主常常喜乐」（腓四4）。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-33" value="神设立伊甸园的目的是为着「安置」人，祂不只是创造人，也负责妥善地「安置」人。&lt;div&gt;今天每个重生信徒所面临的环境，也都是神按着祂的美意所安排的（罗八28）。&lt;/div&gt;&lt;div&gt;伊甸园是快乐的地方，人的受苦并不是神的本意，相反地，神要人「靠主常常喜乐」（腓四4）。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="940" y="883" width="530" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-34" value="神与亚当立工作之约" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-34" value="神与亚当立工作之约" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="1010" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-35" value="【创2:15】耶和华　神将那人安置在伊甸园，使他修理看守。&lt;div&gt;&lt;div&gt;【创2:16】耶和华　神吩咐他说：“园中各样树上的果子，你可以随意吃，&lt;/div&gt;&lt;div&gt;【创2:17】只是分别善恶树上的果子，你不可吃，因为你吃的日子必定死。”&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-35" value="【创2:15】耶和华　神将那人安置在伊甸园，使他修理看守。&lt;div&gt;&lt;div&gt;【创2:16】耶和华　神吩咐他说：“园中各样树上的果子，你可以随意吃，&lt;/div&gt;&lt;div&gt;【创2:17】只是分别善恶树上的果子，你不可吃，因为你吃的日子必定死。”&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="335" y="995" width="420" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-36" value="&lt;div&gt;神在伊甸园供应人、满足人（9节），但并没有让人好逸恶劳。神是创造的神，也是「做事直到如今」（约五17）的神，人既有神的形象，就不会甘心于无所事事。&lt;/div&gt;&lt;div&gt;「修理」原文可译成工作、服事、耕种，「看守」原文意思是照顾、守护。「修理、看守」是神给人的第一份工作，这工作不是为了糊口，而是运用神所赐给的智慧、能力和意志，执行神所托付的管理权柄。将来神的仆人在新耶路撒冷也要与基督一同「作王，直到永永远远」（启二十二5），管理神的创造。&lt;/div&gt;&lt;div&gt;15-17节是神与亚当所立的「工作之约」，神作为伊甸园的主人，把「修理、看守」的工作交给亚当自由负责，报酬是「园中各样树上的果子」（16节），条件是不可吃「分别善恶树上的果子」（17节），「吃的日子必定死」（17节）。&lt;/div&gt;&lt;div&gt;&lt;div&gt;圣经并没有说人不吃「分别善恶树」的果子就不能分辨善恶，也没有说「分别善恶树」的果子能给人「分别善恶」的能力，更没有说神不想叫人学会「分别善恶」。实际上，「吃」的行为本身会「分别善恶」，「不吃」的后果就是「善」，「吃」的后果就是「恶」。因为：&lt;/div&gt;&lt;div&gt;「不可吃」是神的命令，「不吃」代表顺服神，「吃」代表悖逆神。&lt;/div&gt;&lt;div&gt;「不可吃」的命令并非出于神的自私，因为所有其它树上的果子都可以随意吃（16节），甚至包括「生命树」（9节）。如果人偏偏要吃那「不可吃」的果子，表明贪心、不知足和不感恩。&lt;/div&gt;&lt;div&gt;「不可吃」的命令并没有带着解释，表明神要求人在没有明确解释的情况下，也能无条件地顺服神。&lt;/div&gt;&lt;div&gt;「不可吃」的命令并没有靠天使把守来执行（三24），表明这是神给人自由选择的机会。没有自由、没有选择的顺服，并不是甘心乐意的真正顺服。&lt;/div&gt;&lt;div&gt;「死」包括人灵性的死，也就是灵失去功用，与神隔绝；也包括人离开生命的源头之后，肉身逐渐走向死亡（五5；来九27）；最后包括将来第二次的死（启二十一8），「就是永远沉沦，离开主的面和祂权能的荣光」（帖后一9）。叫人「死」的并不是那果子本身，而是人背离神、离开生命的源头。&lt;/div&gt;&lt;div&gt;「不可吃」的命令和「必定死」的警告，是从反面引导人去做正确的选择。「死」是人不想要的，「生命」是人所想要的，因此人就应该知道当拣选「生命树」（9节）。但神从一起初就不强迫人去作拣选，祂只是告诉人正确的拣选。人若愿意体贴神的心意，自动自觉地拣选生命，才是神所要得着的「儿子」（来二10）。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-36" value="&lt;div&gt;神在伊甸园供应人、满足人（9节），但并没有让人好逸恶劳。神是创造的神，也是「做事直到如今」（约五17）的神，人既有神的形象，就不会甘心于无所事事。&lt;/div&gt;&lt;div&gt;「修理」原文可译成工作、服事、耕种，「看守」原文意思是照顾、守护。「修理、看守」是神给人的第一份工作，这工作不是为了糊口，而是运用神所赐给的智慧、能力和意志，执行神所托付的管理权柄。将来神的仆人在新耶路撒冷也要与基督一同「作王，直到永永远远」（启二十二5），管理神的创造。&lt;/div&gt;&lt;div&gt;15-17节是神与亚当所立的「工作之约」，神作为伊甸园的主人，把「修理、看守」的工作交给亚当自由负责，报酬是「园中各样树上的果子」（16节），条件是不可吃「分别善恶树上的果子」（17节），「吃的日子必定死」（17节）。&lt;/div&gt;&lt;div&gt;&lt;div&gt;圣经并没有说人不吃「分别善恶树」的果子就不能分辨善恶，也没有说「分别善恶树」的果子能给人「分别善恶」的能力，更没有说神不想叫人学会「分别善恶」。实际上，「吃」的行为本身会「分别善恶」，「不吃」的后果就是「善」，「吃」的后果就是「恶」。因为：&lt;/div&gt;&lt;div&gt;「不可吃」是神的命令，「不吃」代表顺服神，「吃」代表悖逆神。&lt;/div&gt;&lt;div&gt;「不可吃」的命令并非出于神的自私，因为所有其它树上的果子都可以随意吃（16节），甚至包括「生命树」（9节）。如果人偏偏要吃那「不可吃」的果子，表明贪心、不知足和不感恩。&lt;/div&gt;&lt;div&gt;「不可吃」的命令并没有带着解释，表明神要求人在没有明确解释的情况下，也能无条件地顺服神。&lt;/div&gt;&lt;div&gt;「不可吃」的命令并没有靠天使把守来执行（三24），表明这是神给人自由选择的机会。没有自由、没有选择的顺服，并不是甘心乐意的真正顺服。&lt;/div&gt;&lt;div&gt;「死」包括人灵性的死，也就是灵失去功用，与神隔绝；也包括人离开生命的源头之后，肉身逐渐走向死亡（五5；来九27）；最后包括将来第二次的死（启二十一8），「就是永远沉沦，离开主的面和祂权能的荣光」（帖后一9）。叫人「死」的并不是那果子本身，而是人背离神、离开生命的源头。&lt;/div&gt;&lt;div&gt;「不可吃」的命令和「必定死」的警告，是从反面引导人去做正确的选择。「死」是人不想要的，「生命」是人所想要的，因此人就应该知道当拣选「生命树」（9节）。但神从一起初就不强迫人去作拣选，祂只是告诉人正确的拣选。人若愿意体贴神的心意，自动自觉地拣选生命，才是神所要得着的「儿子」（来二10）。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="940" y="945" width="1720" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-38" value="神设立婚姻" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-38" value="神设立婚姻" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="1150" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-39" target="kcKfXnQ_HAUE7W35JB_x-40">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kcKfXnQ_HAUE7W35JB_x-39" target="kcKfXnQ_HAUE7W35JB_x-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-39" value="【创2:18】耶和华　神说：“那人独居不好，我要为他造一个配偶帮助他。”&lt;div&gt;&lt;div&gt;【创2:21】耶和华　神使他沉睡，他就睡了；于是取下他的一条肋骨，又把肉合起来。&lt;/div&gt;&lt;div&gt;【创2:22】耶和华　神就用那人身上所取的肋骨造成一个女人，领她到那人跟前。&lt;/div&gt;&lt;div&gt;【创2:23】那人说：“这是我骨中的骨，肉中的肉，可以称她为女人，因为她是从男人身上取出来的。”&lt;/div&gt;&lt;div&gt;【创2:24】因此，人要离开父母与妻子连合，二人成为一体。&lt;/div&gt;&lt;div&gt;【创2:25】当时夫妻二人赤身露体并不羞耻。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-39" value="【创2:18】耶和华　神说：“那人独居不好，我要为他造一个配偶帮助他。”&lt;div&gt;&lt;div&gt;【创2:21】耶和华　神使他沉睡，他就睡了；于是取下他的一条肋骨，又把肉合起来。&lt;/div&gt;&lt;div&gt;【创2:22】耶和华　神就用那人身上所取的肋骨造成一个女人，领她到那人跟前。&lt;/div&gt;&lt;div&gt;【创2:23】那人说：“这是我骨中的骨，肉中的肉，可以称她为女人，因为她是从男人身上取出来的。”&lt;/div&gt;&lt;div&gt;【创2:24】因此，人要离开父母与妻子连合，二人成为一体。&lt;/div&gt;&lt;div&gt;【创2:25】当时夫妻二人赤身露体并不羞耻。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="335" y="1115" width="560" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-40" value="&lt;div&gt;神要「造一个配偶来帮助他」，是因为一个人并不能成就神的旨意，成为神要得着的儿子。一个人闭门修炼出来的「柔和、谦卑、爱心」，是经不住婚姻试炼的，必须有「一个配偶帮助他」，才能真正「铁磨铁，磨出刃来」（箴二十七17），生命长成神儿子的身量。&lt;/div&gt;&lt;div&gt;人只有在磕磕碰碰、不离不弃的婚姻生活中，才能真正学会舍己的爱、学会背起十架跟随主。这十架不能想背就背，想扔就扔，因此婚姻是盟约而不是合约，神设立的婚姻是一生一世。而十架如果太多，我们背不动，因此「一个配偶」就够了，神设立的婚姻是一夫一妻。&lt;/div&gt;&lt;div&gt;离开了神的旨意，婚姻的目的只是为了满足人在经济、情感、生育、陪伴方面的需要，一旦人的经济独立、感情变化、不要孩子、或者精神足够强大的时候，离婚就成了家常便饭。&lt;/div&gt;&lt;div&gt;「造一个配偶帮助他」比较准确的译法是「造一个帮助者做他的配偶」。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-40" value="&lt;div&gt;神要「造一个配偶来帮助他」，是因为一个人并不能成就神的旨意，成为神要得着的儿子。一个人闭门修炼出来的「柔和、谦卑、爱心」，是经不住婚姻试炼的，必须有「一个配偶帮助他」，才能真正「铁磨铁，磨出刃来」（箴二十七17），生命长成神儿子的身量。&lt;/div&gt;&lt;div&gt;人只有在磕磕碰碰、不离不弃的婚姻生活中，才能真正学会舍己的爱、学会背起十架跟随主。这十架不能想背就背，想扔就扔，因此婚姻是盟约而不是合约，神设立的婚姻是一生一世。而十架如果太多，我们背不动，因此「一个配偶」就够了，神设立的婚姻是一夫一妻。&lt;/div&gt;&lt;div&gt;离开了神的旨意，婚姻的目的只是为了满足人在经济、情感、生育、陪伴方面的需要，一旦人的经济独立、感情变化、不要孩子、或者精神足够强大的时候，离婚就成了家常便饭。&lt;/div&gt;&lt;div&gt;「造一个配偶帮助他」比较准确的译法是「造一个帮助者做他的配偶」。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="950" y="1130" width="1450" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-31" target="kcKfXnQ_HAUE7W35JB_x-32">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kcKfXnQ_HAUE7W35JB_x-31" target="kcKfXnQ_HAUE7W35JB_x-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-32" target="kcKfXnQ_HAUE7W35JB_x-33">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kcKfXnQ_HAUE7W35JB_x-32" target="kcKfXnQ_HAUE7W35JB_x-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.486;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-34" target="kcKfXnQ_HAUE7W35JB_x-35">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.486;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kcKfXnQ_HAUE7W35JB_x-34" target="kcKfXnQ_HAUE7W35JB_x-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-35" target="kcKfXnQ_HAUE7W35JB_x-36">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kcKfXnQ_HAUE7W35JB_x-35" target="kcKfXnQ_HAUE7W35JB_x-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-38" target="kcKfXnQ_HAUE7W35JB_x-39">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kcKfXnQ_HAUE7W35JB_x-38" target="kcKfXnQ_HAUE7W35JB_x-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-47" value="神的惩罚" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1790" width="70" height="30" as="geometry" />
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-47" value="神的惩罚" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="15" y="1538" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-48" value="人被赶出伊甸园" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1910" width="110" height="30" as="geometry" />
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-48" value="人被赶出伊甸园" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1830" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.014;entryY=0.661;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="__xsrpT0oX-hWeF_dwTw-44" target="kcKfXnQ_HAUE7W35JB_x-47">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="55" y="1260" />
-              <mxPoint x="900" y="1260" />
-              <mxPoint x="900" y="1810" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-52" value="人吃分别善恶树上的果子&lt;div&gt;违背神的命令&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1315" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kcKfXnQ_HAUE7W35JB_x-47" target="kcKfXnQ_HAUE7W35JB_x-48">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="60" y="1830" />
-              <mxPoint x="900" y="1830" />
-              <mxPoint x="900" y="1928" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-52" value="人吃分别善恶树上的果子&lt;div&gt;违背神的命令&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1300" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-53" value="&lt;div&gt;【创3:1】耶和华　神所造的，惟有蛇比田野一切的活物更狡猾。蛇对女人说：“　神岂是真说不许你们吃园中所有树上的果子吗？”&lt;/div&gt;&lt;div&gt;【创3:2】女人对蛇说：“园中树上的果子，我们可以吃；&lt;/div&gt;&lt;div&gt;【创3:3】惟有园当中那棵树上的果子，　神曾说：‘你们不可吃，也不可摸，免得你们死。’”&lt;/div&gt;&lt;div&gt;【创3:4】蛇对女人说：“你们不一定死，&lt;/div&gt;&lt;div&gt;【创3:5】因为　神知道，你们吃的日子眼睛就明亮了，你们便如　神能知道善恶。”&lt;/div&gt;&lt;div&gt;【创3:6】于是，女人见那棵树的果子好作食物，也悦人的眼目，且是可喜爱的，能使人有智慧，就摘下果子来吃了；又给她丈夫，她丈夫也吃了。&lt;/div&gt;&lt;div&gt;【创3:7】他们二人的眼睛就明亮了，才知道自己是赤身露体，便拿无花果树的叶子，为自己编作裙子。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-53" value="&lt;div&gt;【创3:1】耶和华　神所造的，惟有蛇比田野一切的活物更狡猾。蛇对女人说：“　神岂是真说不许你们吃园中所有树上的果子吗？”&lt;/div&gt;&lt;div&gt;【创3:2】女人对蛇说：“园中树上的果子，我们可以吃；&lt;/div&gt;&lt;div&gt;【创3:3】惟有园当中那棵树上的果子，　神曾说：‘你们不可吃，也不可摸，免得你们死。’”&lt;/div&gt;&lt;div&gt;【创3:4】蛇对女人说：“你们不一定死，&lt;/div&gt;&lt;div&gt;【创3:5】因为　神知道，你们吃的日子眼睛就明亮了，你们便如　神能知道善恶。”&lt;/div&gt;&lt;div&gt;【创3:6】于是，女人见那棵树的果子好作食物，也悦人的眼目，且是可喜爱的，能使人有智慧，就摘下果子来吃了；又给她丈夫，她丈夫也吃了。&lt;/div&gt;&lt;div&gt;【创3:7】他们二人的眼睛就明亮了，才知道自己是赤身露体，便拿无花果树的叶子，为自己编作裙子。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="325" y="1280" width="800" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-54" value="男女为罪推卸责任" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-54" value="男女为罪推卸责任" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="1460" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcKfXnQ_HAUE7W35JB_x-55" value="&lt;div&gt;【创3:8】天起了凉风，耶和华　神在园中行走。那人和他妻子听见　神的声音，就藏在园里的树木中，躲避耶和华　神的面。&lt;/div&gt;&lt;div&gt;【创3:9】耶和华　神呼唤那人，对他说：“你在哪里？”&lt;/div&gt;&lt;div&gt;【创3:10】他说：“我在园中听见你的声音，我就害怕，因为我赤身露体，我便藏了。”&lt;/div&gt;&lt;div&gt;【创3:11】耶和华说：“谁告诉你赤身露体呢？莫非你吃了我吩咐你不可吃的那树上的果子吗？”&lt;/div&gt;&lt;div&gt;【创3:12】那人说：“你所赐给我、与我同居的女人，她把那树上的果子给我，我就吃了。”&lt;/div&gt;&lt;div&gt;【创3:13】耶和华　神对女人说：“你作的是什么事呢？”女人说：“那蛇引诱我，我就吃了。”&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kcKfXnQ_HAUE7W35JB_x-55" value="&lt;div&gt;【创3:8】天起了凉风，耶和华　神在园中行走。那人和他妻子听见　神的声音，就藏在园里的树木中，躲避耶和华　神的面。&lt;/div&gt;&lt;div&gt;【创3:9】耶和华　神呼唤那人，对他说：“你在哪里？”&lt;/div&gt;&lt;div&gt;【创3:10】他说：“我在园中听见你的声音，我就害怕，因为我赤身露体，我便藏了。”&lt;/div&gt;&lt;div&gt;【创3:11】耶和华说：“谁告诉你赤身露体呢？莫非你吃了我吩咐你不可吃的那树上的果子吗？”&lt;/div&gt;&lt;div&gt;【创3:12】那人说：“你所赐给我、与我同居的女人，她把那树上的果子给我，我就吃了。”&lt;/div&gt;&lt;div&gt;【创3:13】耶和华　神对女人说：“你作的是什么事呢？”女人说：“那蛇引诱我，我就吃了。”&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="1430" width="690" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R3OG-4nL4PTdNQAV5DZW-2" value="神对蛇宣判" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1600" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R3OG-4nL4PTdNQAV5DZW-3" value="神对女人宣判" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1668" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R3OG-4nL4PTdNQAV5DZW-4" value="神对男人宣判" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1730" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R3OG-4nL4PTdNQAV5DZW-5" value="&lt;div&gt;【创3:14】耶和华　神对蛇说：“你既作了这事，就必受咒诅，比一切的牲畜野兽更甚。你必用肚子行走，终身吃土。&lt;/div&gt;&lt;div&gt;【创3:15】我又要叫你和女人彼此为仇；你的后裔和女人的后裔也彼此为仇。女人的后裔要伤你的头，你要伤他的脚跟。”&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1590" width="660" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R3OG-4nL4PTdNQAV5DZW-6" value="【创3:16】又对女人说：“我必多多加增你怀胎的苦楚，你生产儿女必多受苦楚。你必恋慕你丈夫，你丈夫必管辖你。”" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1668" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R3OG-4nL4PTdNQAV5DZW-7" value="&lt;div&gt;【创3:17】又对亚当说：“你既听从妻子的话，吃了我所吩咐你不可吃的那树上的果子，地必为你的缘故受咒诅。你必终身劳苦，才能从地里得吃的。&lt;/div&gt;&lt;div&gt;【创3:18】地必给你长出荆棘和蒺藜来，你也要吃田间的菜蔬。&lt;/div&gt;&lt;div&gt;【创3:19】你必汗流满面才得糊口，直到你归了土，因为你是从土而出的。你本是尘土，仍要归于尘土。”&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1724" width="810" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R3OG-4nL4PTdNQAV5DZW-8" value="&lt;div&gt;【创3:22】耶和华　神说：“那人已经与我们相似，能知道善恶。现在恐怕他伸手又摘生命树的果子吃，就永远活着。”&lt;/div&gt;&lt;div&gt;【创3:23】耶和华　神便打发他出伊甸园去，耕种他所自出之土。&lt;/div&gt;&lt;div&gt;【创3:24】于是把他赶出去了。又在伊甸园的东边安设基路伯，和四面转动发火焰的剑，要把守生命树的道路。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1815" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R3OG-4nL4PTdNQAV5DZW-9" value="该隐和亚伯" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="1900" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R3OG-4nL4PTdNQAV5DZW-10" value="该隐杀害亚伯" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2090" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R3OG-4nL4PTdNQAV5DZW-11" value="对该隐的介绍，长子，种地为生&lt;br&gt;对亚伯的介绍，次子，牧羊为生" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1960" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R3OG-4nL4PTdNQAV5DZW-13" value="&lt;div&gt;【创4:1】有一日，那人和他妻子夏娃同房，夏娃就怀孕，生了该隐（就是“得”的意思），便说：“耶和华使我得了一个男子。”&lt;/div&gt;&lt;div&gt;【创4:2】又生了该隐的兄弟亚伯。亚伯是牧羊的，该隐是种地的。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1960" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R3OG-4nL4PTdNQAV5DZW-14" value="&lt;div&gt;【创4:4】亚伯也将他羊群中头生的和羊的脂油献上。耶和华看中了亚伯和他的供物，&lt;/div&gt;&lt;div&gt;【创4:5】只是看不中该隐和他的供物。该隐就大大地发怒，变了脸色。&lt;/div&gt;&lt;div&gt;【创4:6】耶和华对该隐说：“你为什么发怒呢？你为什么变了脸色呢？&lt;/div&gt;&lt;div&gt;【创4:7】你若行得好，岂不蒙悦纳？你若行得不好，罪就伏在门前。它必恋慕你，你却要制伏它。”&lt;/div&gt;&lt;div&gt;【创4:8】该隐与他兄弟亚伯说话，二人正在田间，该隐起来打他兄弟亚伯，把他杀了。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="2070" width="550" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R3OG-4nL4PTdNQAV5DZW-15" value="耶和华责罚该隐" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2240" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R3OG-4nL4PTdNQAV5DZW-16" value="&lt;div&gt;【创4:9】耶和华对该隐说：“你兄弟亚伯在哪里？”他说：“我不知道！我岂是看守我兄弟的吗？”&lt;/div&gt;&lt;div&gt;【创4:10】耶和华说：“你作了什么事呢？你兄弟的血有声音从地里向我哀告。&lt;/div&gt;&lt;div&gt;【创4:11】地开了口，从你手里接受你兄弟的血。现在你必从这地受咒诅。&lt;/div&gt;&lt;div&gt;【创4:12】你种地，地不再给你效力，你必流离飘荡在地上。”&lt;/div&gt;&lt;div&gt;【创4:13】该隐对耶和华说：“我的刑罚太重，过于我所能当的。&lt;/div&gt;&lt;div&gt;【创4:14】你如今赶逐我离开这地，以致不见你面。我必流离飘荡在地上，凡遇见我的必杀我。”&lt;/div&gt;&lt;div&gt;【创4:15】耶和华对他说：“凡杀该隐的，必遭报七倍。”耶和华就给该隐立一个记号，免得人遇见他就杀他。&lt;/div&gt;&lt;div&gt;【创4:16】于是该隐离开耶和华的面，去住在伊甸东边挪得之地。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="2208" width="590" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
